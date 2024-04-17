@@ -27,10 +27,8 @@ PROGRAM SETELAH DIMODIFIKASI
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/5195e9fe-30be-4053-a8eb-178b49b2ce29)
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/aad4de92-5413-45bb-870c-1460718fffd5)
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/4b5b9e35-6f08-4c2f-8efb-b5a10849ff72)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/147787ed-0761-4821-98dd-42cab695c49b)
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/a5ca4c29-7a29-44b6-bb03-78d000cc9604)
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/a4926460-1f95-49d5-af3f-0f6b4e449db4)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/22d37575-8b44-4f13-8d2f-9d727530d6c1)
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/badd7086-f875-43d1-998d-2ce637be555b)
 
 
