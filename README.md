@@ -14,17 +14,26 @@ REFERENSI Github: https://github.com/RafyMrX/TOKO-ONLINE-ROTI/blob/master/PASSWO
 
 PROGRAM ASLI
 ![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/9980da27-bc0c-4103-a029-899d4606816d)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/684208f9-cc14-49e6-bd32-d0fdff518bf6)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/e1481f0a-db31-4251-8402-2644f0c9d352)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/efbc2187-a981-4847-a3cd-6f9d9f7204e3)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/ac6170f7-d762-438c-885b-2a31e141c329)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/d5a6c14a-c298-443e-a8b0-b6e5d5eee2fa)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/2f9ba8a3-9a54-41b8-b292-30a31d7732c5)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/b819a26b-2cb8-4cd2-9624-c1f4259e24e1)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/62fe70a9-4b24-4576-b5d1-814cdeef2694)
-![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/5573865a-f83d-4c69-bcd0-62c2850785ed)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/56c1e52f-86c6-401d-aaba-304e68cf7b60)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/9f16be1c-0fbb-49f3-bccd-40be8fa1523a)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/9782c24f-db28-4765-81bb-d07f44686924)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/34212423-bdc4-4352-b13b-9dfc10674a88)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/f11fd31d-d2d5-49a2-a6f1-7efa206add10)
+
 
 PROGRAM SETELAH DIMODIFIKASI
-(di ss in yg udah di edit)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/b7868540-a456-40aa-88a6-8da39287ca6f)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/5195e9fe-30be-4053-a8eb-178b49b2ce29)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/aad4de92-5413-45bb-870c-1460718fffd5)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/147787ed-0761-4821-98dd-42cab695c49b)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/a5ca4c29-7a29-44b6-bb03-78d000cc9604)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/a4926460-1f95-49d5-af3f-0f6b4e449db4)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/22d37575-8b44-4f13-8d2f-9d727530d6c1)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/badd7086-f875-43d1-998d-2ce637be555b)
+
 
 ERD
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/bb688488-fda9-4b01-b4c5-aa1a0e5ee2b6)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/62ee6ccd-defe-4932-af01-4724fa1e4196)
+![image](https://github.com/bungaviva123/PengkodeanDanPemrograman-Sistem-Toko-Bunga-Florist-UTS/assets/167213370/83c19b04-0d0a-43aa-948a-bb0fad7fa9cf)
+
